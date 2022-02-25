@@ -1,5 +1,5 @@
 # Configuring Static Routes
-You can find the full device configurations for my Static Routing lab below. This lab and more are available at https://www.nicksnetworklab.com.   
+You can find the full device configurations for my Static Routing lab below. [This lab](https://nicksnetworklab.com/ccna-lab-static-routing) and more are available at https://www.nicksnetworklab.com.   
 
 ### R1
 ```
